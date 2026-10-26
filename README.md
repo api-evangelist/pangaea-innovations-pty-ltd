@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pangaea Innovations Pty. Ltd. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.pangaeainnovations.com
+Pangaea Innovations Pty. Ltd. is an Australian technology company focused on delivering innovative data platforms and analytics solutions for the energy sector. Founded to bridge the gap between complex energy data and actionable insights, the firm provides APIs that enable secure data ingestion, processing, and visualization for utilities, grid operators, and renewable energy providers. Their services emphasize scalability, compliance with industry standards, and integration with existing enterprise systems, aiming to accelerate digital transformation in the energy industry.
+
+**Areas:** Company · Energy · DataPlatform · Analytics · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pangaeainnovations.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pangaea-innovations-pty-ltd/](https://apis.io/providers/pangaea-innovations-pty-ltd/).
